@@ -38,7 +38,7 @@ if 'transaction_amount' in df.columns:
 
 print("\nCleaned Shape:")
 print(df.shape)
-
+l
 # Load into staging schema
 df.to_sql(
     name="stg_bank_transactions",
