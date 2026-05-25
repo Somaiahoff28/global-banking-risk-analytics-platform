@@ -1,0 +1,18 @@
+# Python Virtual Environments
+.venv/
+venv/
+
+# Python Cache Files
+__pycache__/
+*.pyc
+
+# Airflow Logs
+logs/
+*.log
+
+# VS Code Settings
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
